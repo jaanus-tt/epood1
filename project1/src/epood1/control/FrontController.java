@@ -18,7 +18,7 @@ import org.apache.log4j.Logger;
  */
 @SuppressWarnings("serial")
 public class FrontController extends HttpServlet {
-
+	// Proovimuudatus
 	Logger log = Logger.getLogger(this.getClass());
 	
 	public void init(ServletConfig config) {
