@@ -15,6 +15,9 @@ import epood1.model.data.Customer;
  * @author Jaanus Ojasoo
  *   May 20, 2013
  */
+
+//Krister tegi ka midagi siin! ;)
+
 public class AuthenticationController implements Controller {
 
 	private String username = "";
