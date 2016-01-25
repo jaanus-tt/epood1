@@ -17,6 +17,7 @@ import epood1.model.data.Customer;
  */
 
 //Krister tegi ka midagi siin! ;)
+	// Krister teeb Heleni palvel muudatuse
 
 public class AuthenticationController implements Controller {
 
